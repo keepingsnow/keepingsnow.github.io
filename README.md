@@ -1,2 +1,2 @@
 # luna.github.io
-blog to record life
+This is my website recording My portfolio and notes 
